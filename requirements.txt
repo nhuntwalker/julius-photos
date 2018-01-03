@@ -1,7 +1,10 @@
 boto3==1.5.7
 botocore==1.8.21
+dj-database-url==0.4.2
 Django==2.0.1
+django-localflavor==2.0
 django-storages==1.6.5
+django-wysiwyg-redactor==0.5.1
 docutils==0.14
 jmespath==0.9.3
 Pillow==5.0.0
