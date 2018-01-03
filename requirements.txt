@@ -8,6 +8,7 @@ django-wysiwyg-redactor==0.5.1
 docutils==0.14
 jmespath==0.9.3
 Pillow==5.0.0
+psycopg2==2.7.3.2
 python-dateutil==2.6.1
 pytz==2017.3
 s3transfer==0.1.12
