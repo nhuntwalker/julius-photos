@@ -41,7 +41,8 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'storages',
     'localflavor',
-    'redactor'
+    'redactor',
+    'photos'
 ]
 
 MIDDLEWARE = [
